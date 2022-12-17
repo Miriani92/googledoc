@@ -1,0 +1,15 @@
+.inputWrapper {
+  margin: 0 auto;
+  width: 800px;
+  height: 500px;
+  margin-top: 20px;
+}
+.input {
+  padding: 20px;
+  outline: none;
+  width: 50%;
+  height: 50%;
+  border: none;
+  background-color: rgb(237, 230, 230);
+  font-size: large;
+}
